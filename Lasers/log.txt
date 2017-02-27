@@ -1,0 +1,240 @@
+commit 4763545c20e9883208fd1df6eea2970cc3e05106
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Mon May 9 23:06:14 2016 -0400
+
+    FINISHED
+
+commit 6a907890beae6f3441e9ef29b458e9846bef5f82
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Mon May 9 14:40:30 2016 -0400
+
+    found another error in verify
+
+commit 2c621449ec6beee47759e3d8a5fdeab0239b3d42
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Mon May 9 14:25:27 2016 -0400
+
+    fixed small issue with changing the background color of pillars in check
+
+commit 020e8abf5ddaa9dd4d867b2173c5332608af1bab
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Mon May 9 14:17:27 2016 -0400
+
+    fixed small issue with verify
+
+commit 4f9d2ea57eb94cd950036cdd275aca92c72a2b63
+Author: Ivan Tsui <ixt3042>
+Date:   Sun May 8 22:38:24 2016 -0400
+
+    Fixed verify in commands class. Moving on to solveWithPath and last two buttons
+
+commit a38ee405bf78c28bcd370030e2aa29cecd72170f
+Author: Ivan Tsui <ixt3042>
+Date:   Sat May 7 20:32:40 2016 -0400
+
+    Finished backtracking. Fixing verify in commands class
+
+commit 16187eade7ba7cad2e10f6137563f67cbdd444f1
+Author: Ivan Tsui <ixt3042>
+Date:   Fri May 6 22:47:22 2016 -0400
+
+    Working on SafeSolver
+
+commit 6ba94f6c742e57cb5d970a00297b205d6fb47864
+Merge: 47c0041 fb79f72
+Author: Ivan Tsui <ixt3042>
+Date:   Fri May 6 20:42:04 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 47c0041c708694d0aba30f26d0885c9e0087da96
+Author: Ivan Tsui <ixt3042>
+Date:   Fri May 6 20:41:32 2016 -0400
+
+    Load, Reset, Check buttons done
+
+commit fb79f72d89da162ad5cdc001161aff43bed5409f
+Merge: 64e1b85 e407bc2
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Thu May 5 14:03:48 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 64e1b85788f0d69ec3aaff223039d138f6ca5522
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Thu May 5 14:03:18 2016 -0400
+
+    unwanted part
+
+commit e407bc297ab93df517b65f6e83c08a8637c0d0fc
+Author: Ivan Tsui <ixt3042>
+Date:   Thu May 5 13:41:06 2016 -0400
+
+    Trying to work on load button
+
+commit e6e7d25f63f5b0111e837d580de9bd63161f7c88
+Author: Ivan Tsui <ixt3042>
+Date:   Thu May 5 12:02:59 2016 -0400
+
+    ADD AND REMOVE FINISHED for gui
+    ptui completed
+
+commit d964cbecc07368e5e75b0a330727b0d8f617dac6
+Merge: e56288f 878d74f
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Wed May 4 23:00:05 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #	src/ptui/ControllerPTUI.java
+
+commit e56288f380556de389e7f618a494cd83092593c3
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Wed May 4 22:59:26 2016 -0400
+
+    unwanted part 1
+
+commit 878d74fdd470b4725dfc8ae8c3c7e5cdf26de975
+Author: Ivan Tsui <ixt3042>
+Date:   Wed May 4 22:41:39 2016 -0400
+
+    Progress
+
+commit 71ff7f0d9f1f646c0e9eeef25196aa0bafb4aff6
+Author: Ivan Tsui <ixt3042>
+Date:   Wed May 4 21:21:24 2016 -0400
+
+    PTUI completed
+
+commit ba9a71e5d49c2c10f019af43aee0c3c4575787b0
+Author: Ivan Tsui <ixt3042>
+Date:   Wed May 4 18:33:59 2016 -0400
+
+    Starter code
+
+commit f24a4498e0a5be4dded454c4d7f809ef9ee45946
+Author: Ivan Tsui <ixt3042>
+Date:   Wed May 4 18:29:37 2016 -0400
+
+    Starter code
+
+commit acdfbad61c325bbee3de41d4bc6057c990fe2227
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Thu Apr 14 13:21:48 2016 -0400
+
+    completed version of part 1
+
+commit 45d3ff12847978b69c493f4b9939d44aa3186279
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Thu Apr 14 12:41:31 2016 -0400
+
+    first completed version of part 1 with try fix 3
+
+commit 9396abc47dfe71b7b702b6a7e1129c7fd9d889b4
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Thu Apr 14 12:33:37 2016 -0400
+
+    first completed version of part 1 with try fix 2
+
+commit 64188a5ffa253f72384e37cbb7eacc9d3516b5e5
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Thu Apr 14 12:10:39 2016 -0400
+
+    first completed version of part 1 with try fix
+
+commit 34cb583e09aecbdeffd044d6fcc80f538578b1e7
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Thu Apr 14 12:07:50 2016 -0400
+
+    first completed version of part 1
+
+commit 36385e50586b2d108c02fba442de90844a9a9080
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Thu Apr 14 02:17:57 2016 -0400
+
+    found and fixed issues with remove method
+
+commit ff1d9424940901916a6f596f2d6e19904305d77e
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Thu Apr 14 01:30:48 2016 -0400
+
+    completed taking in inputs and the remove method is complete
+
+commit 0d55ae40ccdf5b2c64a704e8dca475fc233ada48
+Merge: 1807403 ed5e6d1
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Wed Apr 13 19:00:56 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #	src/LasersPTUI.java
+
+commit 180740302909ee76d8c5e7a60a5fa50ad7247f14
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Wed Apr 13 19:00:18 2016 -0400
+
+    unwanted version 3
+
+commit ed5e6d159dea1e1c3dc23a1fb3711edc8243969b
+Author: Ivan Tsui <ixt3042>
+Date:   Wed Apr 13 18:45:58 2016 -0400
+
+    Some more work done
+
+commit a45da2bd4a3b8b26e6e08608c71f32b446319ba8
+Merge: 4d01e7a d4abd48
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Sun Apr 10 16:38:35 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #	src/LasersPTUI.java
+
+commit 4d01e7a39e819ad1d231423f4d5e57b1035601f9
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Sun Apr 10 16:37:42 2016 -0400
+
+    unwanted version
+
+commit d4abd48a07723fabec09e3bcfa89d33fe8cddc51
+Author: Ivan Tsui <ixt3042>
+Date:   Sun Apr 10 16:32:32 2016 -0400
+
+    Some work done
+
+commit 9c9a6e73f5302ecfe524e95c9d246cb12649d833
+Merge: 75e982b 4be5216
+Author: Ivan Tsui <ixt3042>
+Date:   Thu Apr 7 10:33:38 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #	src/LasersPTUI.java
+
+commit 4be5216061593804bc8dea7602a6817ee9d63f71
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Thu Apr 7 10:27:28 2016 -0400
+
+    git test 2
+
+commit 75e982bc6dab9dd947592e160b39d0565dd6b401
+Author: Ivan Tsui <ixt3042>
+Date:   Thu Apr 7 10:13:22 2016 -0400
+
+    Initial revision
+
+commit f09496e0dd1a1685108b62d5d7bf658bbe953b74
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Thu Apr 7 10:12:19 2016 -0400
+
+    git test
+
+commit cb707bf526e1715c60929847af2ffee92101b451
+Author: Devon Bagley <dxb4606@rit.edu>
+Date:   Thu Apr 7 09:43:09 2016 -0400
+
+    initial revision
